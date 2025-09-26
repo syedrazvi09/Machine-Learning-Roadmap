@@ -1,0 +1,33 @@
+Transcript:
+
+Hello everyone, I’m excited to present AURORA – an AI-driven career advisor.
+
+At its core, our prototype takes a student’s assessment or test results, automatically scores them, maps them to specific skills, and then recommends career tracks that match their strengths. For example, if a student shows high scores in Python and SQL, the system might recommend tracks like Data Analyst or Python Developer.
+
+Right now, our prototype demonstrates the end-to-end flow:
+
+Students input their assessment scores.
+
+The system analyzes their skills using a Skill Genome.
+
+It computes career fit scores across multiple roles.
+
+And finally, it provides personalized recommendations and highlights skill gaps.
+
+This already makes the process of career advice more data-driven and personalized than traditional one-size-fits-all counseling.
+
+Now, what makes AURORA truly unique is where we’re headed. The future model won’t just stop at scoring. It will integrate:
+
+Dynamic market signals, so students know which roles are rising or declining in demand.
+
+Learning friction analysis, estimating how much effort is needed to reach each target role.
+
+Mini-project and mentorship recommendations, so every skill gap translates into a practical, guided step for the student.
+
+And a strong focus on fairness, transparency, and explainability, so students understand why a career path was suggested.
+
+The finished AURORA will be like a GPS for careers: it won’t just tell you where you are, but also show multiple routes to where you want to be, with real-time updates based on the job market.
+
+This combination of assessment-based skill profiling, real-time market awareness, and personalized, actionable guidance is what makes AURORA stand out from existing career advisory tools.
+
+Thank you.
